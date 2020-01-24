@@ -1,8 +1,8 @@
 # iot-programm-pt2-LabOne
 Repository for a first laboratory task in the Programming pt 2 course.
 
-Task option number: 23
-23/3 remainder: 2
+Task option number: 23;
+23/3 remainder: 2;
 do-while loop in sub-task 15
 
 Task:
